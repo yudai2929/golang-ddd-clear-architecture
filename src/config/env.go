@@ -18,7 +18,7 @@ func NewEnv() *Env {
 		Protocol: "tcp",
 		Host:     "localhost",
 		Port:     "3306",
-		Name:     "golang-ddd-clear-architecture,
+		Name:     "golang-ddd-clear-architecture",
 		Parse:    "true",
 		Driver:   "mysql",
 	}
