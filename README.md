@@ -1,5 +1,5 @@
 # golang-ddd-clear-architecture File Structure
-
+練習用です
 ## Overview
 This repository implements a clear architecture based on Domain-Driven Design (DDD) principles using Go. It's structured to separate concerns and promote a clean and maintainable codebase.
 
